@@ -1,13 +1,13 @@
 {
     "networth": {
-        "apiKey": "f63746c2-3894-4cca-8570-eda7ad8f1490"
+        "apiKey": "6cfd7b7e-d048-47e2-a420-d303ddcc65e2"
     },
     "URLS": {
         "redirect_uri": "",
         "apiURL": ""
     },
     "webhook": {
-        "webhookURL": "https://discord.com/api/webhooks/1095015658145726585/qSFEJhZMZ-8NZQzqPUZv0ya6eHqsTYsHdRWGlMAUQHCnvOh82yMqIl7aIWlr1UPx_M5e"
+        "webhookURL": "https://discord.com/api/webhooks/1096014765605781554/QqfwphdOulluLa_cDquOMlAbIRyT4e0vAbdsk58r6K6kOAtX-2mGegAWv3gz7xZNTscy"
     },
     "discord": {
         "bot_token": ""
